@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "name": "Phở Bò",
+    "image": "/src/image/1.jpg",
+    "description": "Phở bò ngon tuyệt với nước dùng đậm đà.",
+    "price": "50,000 VND"
+  },
+  {
+    "id": 2,
+    "name": "Bánh Mì",
+    "image": "/src/image/1.jpg",
+    "description": "Bánh mì giòn rụm với nhân pate béo ngậy.",
+    "price": "25,000 VND"
+  },
+  {
+    "id": 3,
+    "name": "Gỏi Cuốn",
+    "image": "/src/image/1.jpg",
+    "description": "Gỏi cuốn tươi ngon với nước chấm đậm đà.",
+    "price": "30,000 VND"
+  },
+  {
+    "id": 4,
+    "name": "Gỏi Cuốn",
+    "image": "/src/image/1.jpg",
+    "description": "Gỏi cuốn tươi ngon với nước chấm đậm đà.",
+    "price": "30,000 VND"
+  },
+  {
+    "id": 5,
+    "name": "Gỏi Cuốn",
+    "image": "/src/image/1.jpg",
+    "description": "Gỏi cuốn tươi ngon với nước chấm đậm đà.",
+    "price": "30,000 VND"
+  },
+  {
+    "id": 6,
+    "name": "Gỏi Cuốn",
+    "image": "/src/image/1.jpg",
+    "description": "Gỏi cuốn tươi ngon với nước chấm đậm đà.",
+    "price": "30,000 VND"
+  },
+  {
+    "id": 7,
+    "name": "Gỏi Cuốn",
+    "image": "/src/image/1.jpg",
+    "description": "Gỏi cuốn tươi ngon với nước chấm đậm đà.",
+    "price": "30,000 VND"
+  },
+  {
+    "id": 8,
+    "name": "Gỏi Cuốn",
+    "image": "/src/image/1.jpg",
+    "description": "Gỏi cuốn tươi ngon với nước chấm đậm đà.",
+    "price": "30,000 VND"
+  },
+  {
+    "id": 9,
+    "name": "Gỏi Cuốn",
+    "image": "/src/image/1.jpg",
+    "description": "Gỏi cuốn tươi ngon với nước chấm đậm đà.",
+    "price": "30,000 VND"
+  }
+]
